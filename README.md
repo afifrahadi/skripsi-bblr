@@ -3,7 +3,6 @@
 **Prediksi Bayi Berat Lahir Rendah (BBLR) berbasis Interval Type-2 Fuzzy Logic System**
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)]()
 
 ---
@@ -274,14 +273,16 @@ Rule 12: IF IMT = (BB Lebih/Obesitas) AND Usia = Tidak Berisiko
 
 ## 📄 Lisensi
 
-Proyek ini menggunakan lisensi **MIT**. Silakan lihat file [LICENSE](LICENSE) untuk detail lengkap.
+Proyek ini **belum memiliki lisensi**. Proyek dibuat sebagai bagian dari penelitian skripsi, dan seluruh hak cipta dipegang oleh penulis.
+
+Tanpa izin tertulis dari penulis, kode dan data dalam repository ini tidak boleh disalin, diubah, atau didistribusikan ulang. Jika ingin menggunakan sebagian isi proyek ini, silakan hubungi penulis melalui kontak di bawah.
 
 ---
 
 ## 📞 Kontak & Support
 
 Untuk pertanyaan atau saran:
-- 📧 Email: [feapagus@student.uns.ac.id](mailto:feapagus@student.uns.ac.id)
+- 📧 Email: [afif0901rahadi@gmail.com](mailto:afif0901rahadi@gmail.com)
 - 📌 Issues: Silakan buka issue di repository ini
 
 ---
